@@ -1,2 +1,2 @@
-# 09-CLI-Project-Oop
-CLI-Project-Oop
+# CLI-Project-Oop
+Typescript CLI Project Object Oriented Program
